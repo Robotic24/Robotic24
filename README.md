@@ -13,10 +13,4 @@
     CODING EXPERIENCE
 -I’m currently learning python and how to use it in a pentest environment. I already know Java but I don't see much application for it anymore.
   I also know HTML and CSS but most coders don't count that as real coding so take it as you will.
-  
-  COLABORATIONS
--If someone wants to colab i’m looking to collaborate on any python or java code projects and I can help code some front end of a website if needed.
-  I'm especiall happy to colab on any pentest tools that are being made or python scripts for pentest.
-
-  CONTACT ME
--You can contact me by email at Robotic24@protonmail.com
+ 
