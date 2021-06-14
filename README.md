@@ -14,3 +14,5 @@
 -I’m currently learning python and how to use it in a pentest environment. I already know Java but I don't see much application for it anymore.
   I also know HTML and CSS but most coders don't count that as real coding so take it as you will.
  
+    CONTACT ME
+-I'm contactable at Robotic24@protonmail.com.
